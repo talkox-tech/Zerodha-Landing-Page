@@ -1,0 +1,74 @@
+{
+    "sourceFile": "HARKIRAT_S/WEEK-01/ZERODHA_LAND_P/index.html",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 14,
+            "patches": [
+                {
+                    "date": 1764510405796,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1764510432014,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-<>\n\\ No newline at end of file\n+<div><>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1764510437896,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,1 +1,1 @@\n-<div><>\n\\ No newline at end of file\n+<div></div>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1764510445372,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,1 @@\n+<div> Z</div>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1764510454027,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,3 @@\n+<div>\r\n+    \r\n+</div>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1764510465181,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,3 @@\n <div>\r\n-    \r\n-</div>\n-<div> Z</div>\n-<div></div>\n\\ No newline at end of file\n+    <div>\r\n+</div>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1764510470629,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,3 @@\n+<div>\r\n+    <div></div>\r\n+</div>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1764510476181,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,3 @@\n+<div>\r\n+    <div> img</div>\r\n+</div>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1764510482569,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,3 @@\n+<div>\r\n+    <div> </div>\r\n+</div>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1764510489976,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,12 +1,3 @@\n <div>\r\n-    <div> </div>\r\n-</div>\n-<div>\r\n-    <div> img</div>\r\n-</div>\n-<div>\r\n-    <div></div>\r\n-</div>\n-<div>\r\n-    <div>\r\n+    <div> src</div>\r\n </div>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1764510509186,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,3 +1,3 @@\n <div>\r\n-    <div> src</div>\r\n+    <div> <></div>\r\n </div>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1764510515533,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,3 +1,4 @@\n <div>\r\n-    <div> <></div>\r\n+    <div> <img>\r\n+    </div>\r\n </div>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1764510544910,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,4 @@\n+<div>\r\n+    <div> <a>\r\n+    </div>\r\n+</div>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1764510554101,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,4 @@\n <div>\r\n-    <div> <a >\r\n+    <div> <a <i>>\r\n     </div>\r\n </div>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1764510580606,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,4 @@\n <div>\r\n-    <div> <a img = >>\r\n+    <div> <img = >>\r\n     </div>\r\n </div>\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1764510405796,
+            "name": "Commit-0",
+            "content": "<>"
+        }
+    ]
+}

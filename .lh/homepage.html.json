@@ -1,0 +1,38 @@
+{
+    "sourceFile": "homepage.html",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 5,
+            "patches": [
+                {
+                    "date": 1763914400433,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1763919264545,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -3,32 +3,7 @@\n         \r\n         <title> Home Page</title>\r\n     </head>\r\n     <body> \r\n-        <table style = \"width : 100%\">\r\n-        <thead>\r\n-            <th>Logo</th>\r\n-            <th>Web Site Name</th>\r\n-        </thead>\r\n-        <tbody>\r\n-        <tr>\r\n-            <td>Home</td>\r\n-            <td>Login</td>\r\n-            <td>Registration</td>\r\n-            <td>Catalogue</td>\r\n-            <td>Cart</td>\r\n-        </tr>\r\n-        <colgroup>\r\n-            <td>CSE<br/>\r\n-                ECE<br/>\r\n-                EEE<br/>\r\n-                Mechanical\r\n-\r\n-            </td>\r\n-        </colgroup>\r\n-        </tbody>\r\n-        <tr>\r\n-\r\n-        </tr>\r\n-    </table>\r\n+        \r\n     </body>\r\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1763919273870,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,7 +1,6 @@\n <html>\r\n     <head>\r\n-        \r\n         <title> Home Page</title>\r\n     </head>\r\n     <body> \r\n         \r\n"
+                },
+                {
+                    "date": 1763919296139,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -2,7 +2,7 @@\n     <head>\r\n         <title> Home Page</title>\r\n     </head>\r\n     <body> \r\n-        \r\n+        <\r\n     </body>\r\n </html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1763919302946,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -4,5 +4,5 @@\n     </head>\r\n     <body> \r\n         <div>\r\n     </body>\r\n-</ht\n\\ No newline at end of file\n+</html>\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1763919308726,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,10 @@\n+<html>\r\n+    <head>\r\n+        <title> Home Page</title>\r\n+    </head>\r\n+    <body> \r\n+        <div>\r\n+            \r\n+        </div>\r\n+    </body>\r\n+</html>\n\\ No newline at end of file\n"
+                }
+            ],
+            "date": 1763914400433,
+            "name": "Commit-0",
+            "content": "<html>\r\n    <head>\r\n        \r\n        <title> Home Page</title>\r\n    </head>\r\n    <body> \r\n        <table style = \"width : 100%\">\r\n        <thead>\r\n            <th>Logo</th>\r\n            <th>Web Site Name</th>\r\n        </thead>\r\n        <tbody>\r\n        <tr>\r\n            <td>Home</td>\r\n            <td>Login</td>\r\n            <td>Registration</td>\r\n            <td>Catalogue</td>\r\n            <td>Cart</td>\r\n        </tr>\r\n        <colgroup>\r\n            <td>CSE<br/>\r\n                ECE<br/>\r\n                EEE<br/>\r\n                Mechanical\r\n\r\n            </td>\r\n        </colgroup>\r\n        </tbody>\r\n        <tr>\r\n\r\n        </tr>\r\n    </table>\r\n    </body>\r\n</html>"
+        }
+    ]
+}
